@@ -1,10 +1,10 @@
 {
-  "name": "w03-nodejs",
+  "name": "w04-nodejs",
   "version": "1.0.0",
   "description": "NodeJS example",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "hello": "node helloworld.js"
   },
   "author": "Mike Sosa",
   "license": "ISC"
